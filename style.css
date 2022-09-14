@@ -1,0 +1,23 @@
+.bg-container {
+    background-image: url(https://img.freepik.com/free-photo/vision-optics-eyesight-myopia-people-eyewear-concept-picture-stylish-beautiful-short-sighted-young-female-choosing-distance-glasses-holding-two-pairs-spectacles-having-indecisive-look_343059-2920.jpg?);
+    height: 100%;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heading{
+    color:azure;
+}
+.anchor{
+   border: 5px;
+   border-color:black;
+   text-decoration: none;
+   color: black;
+}
+.button{
+    background-color:salmon;
+}
+.card-container{
+    background-color: salmon;
+    text-align: center;
+}
